@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: rgba(176,196,222, 0.5)
+}
+
+.container{
+    background-color: #fff;
+    width: 260px;
+    height: 400px;
+    margin: auto;
+    margin-top: 180px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+img{
+    height: 230px;
+    width: 240px;
+    border-radius: 17px;
+    margin-top: 8px;  
+}
+
+h2{
+    font-size: 17px;
+    margin-top: 30px;
+    margin: 20px;
+}
+
+p{
+    font-size: 13px;
+    margin: 20px;
+    color: #C0C0C0;
+    margin-top: -10px;
+
+}
+
+
